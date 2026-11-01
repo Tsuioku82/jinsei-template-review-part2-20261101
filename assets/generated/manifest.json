@@ -1,0 +1,125 @@
+{
+  "village": {
+    "width": 1600,
+    "mime": "image/jpeg",
+    "file": "village.jpg",
+    "alphaCorner": 255,
+    "height": 900
+  },
+  "workshop": {
+    "width": 1600,
+    "mime": "image/jpeg",
+    "file": "workshop.jpg",
+    "alphaCorner": 255,
+    "height": 900
+  },
+  "flowers": {
+    "width": 1536,
+    "mime": "image/jpeg",
+    "file": "flowers.jpg",
+    "alphaCorner": 255,
+    "height": 1024
+  },
+  "garden": {
+    "width": 1600,
+    "mime": "image/jpeg",
+    "file": "garden.jpg",
+    "alphaCorner": 255,
+    "height": 900
+  },
+  "seaside": {
+    "width": 1536,
+    "mime": "image/jpeg",
+    "file": "seaside.jpg",
+    "alphaCorner": 255,
+    "height": 1024
+  },
+  "heart-white-v2": {
+    "width": 1600,
+    "mime": "image/jpeg",
+    "file": "heart-white-v2.jpg",
+    "alphaCorner": 255,
+    "height": 900,
+    "kind": "B"
+  },
+  "heart-ornament": {
+    "width": 600,
+    "mime": "image/png",
+    "file": "heart-ornament.png",
+    "alphaCorner": 0,
+    "height": 589,
+    "kind": "B"
+  },
+  "witch-devil": {
+    "height": 800,
+    "mime": "image/png",
+    "width": 533,
+    "alphaCorner": 0,
+    "file": "witch-devil.png",
+    "kind": "B"
+  },
+  "witch-book": {
+    "height": 800,
+    "mime": "image/png",
+    "width": 533,
+    "alphaCorner": 0,
+    "file": "witch-book.png",
+    "kind": "B"
+  },
+  "witch-flower": {
+    "height": 800,
+    "mime": "image/png",
+    "width": 533,
+    "alphaCorner": 0,
+    "file": "witch-flower.png",
+    "kind": "B"
+  },
+  "noir-portrait": {
+    "alphaCorner": 255,
+    "height": 900,
+    "width": 1600,
+    "kind": "A",
+    "file": "noir-portrait.jpg",
+    "mime": "image/jpeg"
+  },
+  "noir-city": {
+    "alphaCorner": 255,
+    "height": 686,
+    "width": 1600,
+    "kind": "A",
+    "file": "noir-city.jpg",
+    "mime": "image/jpeg"
+  },
+  "noir-objects": {
+    "alphaCorner": 255,
+    "height": 900,
+    "width": 1600,
+    "kind": "A",
+    "file": "noir-objects.jpg",
+    "mime": "image/jpeg"
+  },
+  "noir-hat-part": {
+    "alphaCorner": 0,
+    "height": 400,
+    "width": 600,
+    "kind": "A",
+    "file": "noir-hat-part.png",
+    "mime": "image/png"
+  },
+  "pocketwatch-part": {
+    "alphaCorner": 0,
+    "height": 400,
+    "width": 600,
+    "kind": "A",
+    "file": "pocketwatch-part.png",
+    "mime": "image/png"
+  },
+  "embroidered-ribbon-part": {
+    "alphaCorner": 0,
+    "height": 507,
+    "width": 600,
+    "kind": "B",
+    "file": "embroidered-ribbon-part.png",
+    "mime": "image/png"
+  }
+}
